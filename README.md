@@ -2,6 +2,8 @@
 
 ## This is the landing page for the Team Trendy's Trendy Map app. Check out the webpage to find a link to the Play Store where you can download and try out the Trendy Map for yourself!
 
+https://csging.github.io/trendylanding/
+
 ## The Trendy Map is a social app designed to allow users to find and share cool local places.
 
 ## Current features:
